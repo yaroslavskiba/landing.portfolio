@@ -308,9 +308,6 @@ body._lock {
 .about-me__text p:last-child {
 	margin-bottom: 0;
 }
-@media all and (max-width: 768px) {
-
-}
 @media all and (max-width: 479px) {
 	.about-me {
 		padding: 81px 0 76px 0;
@@ -347,9 +344,6 @@ body._lock {
 	text-align: center;
 	color: #828282;
 }
-@media all and (max-width: 768px) {
-
-}
 @media all and (max-width: 479px) {
 	.skills {
 		padding: 83px 0 98px 0;
@@ -383,9 +377,6 @@ body._lock {
 	justify-content: center;
 	padding: 45px 0 99px 0;
 	text-align: center;
-}
-@media all and (max-width: 768px) {
-
 }
 @media all and (max-width: 479px) {
 	.portfolio {
@@ -437,9 +428,6 @@ body._lock {
 	line-height: 17px;
 	text-align: center;
 	color: #828282;
-}
-@media all and (max-width: 768px) {
-
 }
 @media all and (max-width: 479px) {
 	.contacts {
